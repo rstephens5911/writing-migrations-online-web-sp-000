@@ -5,7 +5,7 @@ class AddGradeAndBirhtdateToStudents < ActiveRecord::Migration
       c.integer :grade
       c.string :birthdate
     end
-  end  
+  end
 
 
 end
