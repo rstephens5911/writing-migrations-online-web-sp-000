@@ -7,5 +7,4 @@ class AddGradeAndBirhtdateToStudents < ActiveRecord::Migration
     end
   end
 
-
 end
